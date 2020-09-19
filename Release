@@ -1,8 +1,8 @@
-Origin: FAMT5
-Label: Fahad Alotiba
-Suite: FAMT5
+
+Origin: test x7mii 
+Label: x7mii 
+Suite: stable
 Version: 1.0
-Codename: PGM
 Architectures: iphoneos-arm
-Components: PGM
-Description:  Hey 
+Components: main
+Description: repo
