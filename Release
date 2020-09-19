@@ -1,8 +1,8 @@
-Origin: Qiosz xMalr
-Label: Qiosz xMalr
-Suite: stable
-Version: 1.0
-Codename: ios
+Origin: FAMT5
+Label: Fahad Alotiba
+Suite: FAMT5
+Version: 5.2
+Codename: PGM
 Architectures: iphoneos-arm
-Components: main
-Description: 
+Components: PGM
+Description:  Hey 
