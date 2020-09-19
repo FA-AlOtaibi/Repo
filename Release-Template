@@ -1,6 +1,6 @@
-Origin: Shark Demo
+Origin: FAMT5
 
-Label: Demo
+Label: FAMT5
 
 Suite: stable
 
@@ -12,4 +12,4 @@ Architectures: iphoneos-arm
 
 Components: main
 
-Description: Repository demo Shark
+Description: Repository Fahad
