@@ -4,7 +4,7 @@
 ‪Maintainer: Fahad Alotiba‬
 ‪Depends: ‬
 ‪Conflicts: ‬
-‪Filename: debs/FamV5.2.deb‬
+‪Filename: ./debs/FamV5.2.deb‬
 ‪Size: 441KB‬
 ‪MD5sum: ab2c8e1580beb9fe12de36a2fc338c48‬
 ‪SHA1: 80e2d6b3a550c4395a2e74784f3363a5501e211b‬
@@ -20,7 +20,7 @@
 ‪Maintainer: Fahad Alotiba‬
 ‪Depends: ‬
 ‪Conflicts: ‬
-‪Filename: debs/FAMT5.deb‬
+‪Filename: ./debs/FAMT5.deb‬
 ‪Size: 467KB‬
 ‪MD5sum: 2c28861f9f7560eeb870e6883cbba9bb‬
 ‪SHA1: ffc6f0311fe2287e78cd5a5d30606bf66a4a4c81‬
