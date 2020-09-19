@@ -1,6 +1,5 @@
-
-Origin: test x7mii 
-Label: x7mii 
+Origin: FAMT5
+Label: FAMT5 
 Suite: stable
 Version: 1.0
 Architectures: iphoneos-arm

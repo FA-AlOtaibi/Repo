@@ -1,14 +1,30 @@
-Package: com.famt5.mr
-Version: 5.2
-Architecture: iphoneos-arm
-Maintainer: Fahad Alotiba
-Depends: 
-Conflicts: 
-Filename: /debs/FamV5.2.deb
-Size: 441KB
-MD5sum: ab2c8e1580beb9fe12de36a2fc338c48
-SHA1: 80e2d6b3a550c4395a2e74784f3363a5501e211b
-SHA256: 75b17938aafefa165ecd67c3f0ac0c2265ace8928d56108f33487c4339ebf6d0
-Section: Hack PGM
-Depiction: Mod Menu PGM (Pubg) 
-Name: FAMT5 Mod Menu
+‪Package: com.famt5.mr‬
+‪Version: 5.2‬
+‪Architecture: iphoneos-arm‬
+‪Maintainer: Fahad Alotiba‬
+‪Depends: ‬
+‪Conflicts: ‬
+‪Filename: /debs/FamV5.2.deb‬
+‪Size: 441KB‬
+‪MD5sum: ab2c8e1580beb9fe12de36a2fc338c48‬
+‪SHA1: 80e2d6b3a550c4395a2e74784f3363a5501e211b‬
+‪SHA256: 75b17938aafefa165ecd67c3f0ac0c2265ace8928d56108f33487c4339ebf6d0‬
+‪Section: Hack PGM‬
+‪Depiction: Mod Menu PGM (Pubg) ‬
+‪Name: FAMT5 Mod Menu‬
+
+
+‪Package: com.famt5.pubgm‬
+‪Version: 3.0‬
+‪Architecture: iphoneos-arm‬
+‪Maintainer: Fahad Alotiba‬
+‪Depends: ‬
+‪Conflicts: ‬
+‪Filename: /debs/FAMT5.deb‬
+‪Size: 467KB‬
+‪MD5sum: 2c28861f9f7560eeb870e6883cbba9bb‬
+‪SHA1: ffc6f0311fe2287e78cd5a5d30606bf66a4a4c81‬
+‪SHA256: 9b823a3966c410b2a0cbd4b597cd299e896a09d0fff19d032b6462cd0d6c9261‬
+‪Section: Hack PGM‬
+‪Depiction: Mod Menu PGM (Pubg)  DLG‬
+‪Name: FAM Mod Menu (DLG)‬
